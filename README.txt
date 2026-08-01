@@ -1,4 +1,4 @@
-Friendship Day Website for Kuttee
+Friendship Day Website
 
 How to use:
 1. Open index.html in a browser, or upload the folder to GitHub Pages / Netlify.
